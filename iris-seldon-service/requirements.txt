@@ -1,5 +1,6 @@
 pandas
-seldon-core
+Werkzeug==2.0.3
+seldon-core==1.13.1
 scikit-learn
 numpy
 pickle-mixin
